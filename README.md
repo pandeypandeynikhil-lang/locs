@@ -1,0 +1,1 @@
+#Understood properly the basic fundamentals of the git
